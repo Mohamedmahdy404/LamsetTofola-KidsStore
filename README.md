@@ -14,7 +14,7 @@ Welcome to the **Lamset Tofola** landing page project! This project is a beautif
 
 ## Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://mohamedmahdy404.github.io/LamsetTofola-KidsStore/)
 
 ## Technologies Used
 
